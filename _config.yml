@@ -2,7 +2,7 @@
 title: JiWon Choi # your name goes here
 position: Associate Professor # your position title goes here
 affiliation: University of California San Francisco # your affiliated school goes here
-email: jiwon dot choi at ucsf dot edu # your email goes here
+email: jiwon.choi@ucsf.com # your email goes here
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
@@ -15,7 +15,7 @@ description: The Minimal Light is a simple and elegant jekyll theme for academic
 # google_scholar: # if you have a google scholar you can put it here.
 # cv_link: # you can include your cv. place it into the assets/files/ folder on the repo
 # github_link: # if you want to share your github account you can add it here.
-# linkedin:
+# linkedin: https://www.linkedin.com/in/jiwon-choi-4900701ba/
 # twitter: https://twitter.com/
 
 # Images (e.g., your profile picture and your website's favicon) 
