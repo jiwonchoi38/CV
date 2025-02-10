@@ -3,14 +3,14 @@ main:
   - type: education
     degreepath: PhD # for type.education.
     institution: University of Illinois at Chicago
-    advisor: JoEllen Wilbur 
-    years: 1999 - 2004
+    committee advisor: JoEllen Wilbur, Arlene Miller, MiJa Kim, Edward McAuley, Sally Freels   
+    years: 1999 - 2005
     
   - type: job
-    title: Example Job # for type.employment.
-    institution: University University
-    department: Department
-    years: 2024 - Present
+    title: Associate Professor # for type.employment.
+    institution: University of California, San Francisco
+    department: Institute for Health & Aging/Social and Behavioral Sciences
+    years: 2022 - Present
     
   - type: service
     title: A role
