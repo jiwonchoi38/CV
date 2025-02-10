@@ -9,7 +9,7 @@ JiWon Choi is a nursing researcher at UCSF.
 ## Research Interests
 
 - **Physical activity:** barriers, facilitators, mHealth intervention
-- **Brain health:** Alzheimer's disease and related dementias, Dementia caregiver support program, lifestyle modification
+- **Brain health:** Alzheimer's disease and related dementias, dementia caregiver support program, lifestyle modification
 
 {% include_relative _includes/education.md %}
 
