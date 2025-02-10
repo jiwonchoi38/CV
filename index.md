@@ -4,13 +4,12 @@ layout: homepage
 
 ## About Me
 
-Sean Purcell is a digital health humanist who works at UCSF>
+JiWon Choi is a nursing researcher at UCSF.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
-- **Digital Health Humanities:** I do things.
+- **Physical activity:** barriers, facilitators, mHealth intervention
+- **Brain health:** Alzheimer's disease and related dementias, Dementia caregiver support program, lifestyle modification
 
 {% include_relative _includes/education.md %}
 
