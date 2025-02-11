@@ -3,6 +3,7 @@ main:
   - type: education
     degreepath: PhD in Nursing # for type.education.
     institution: University of Illinois at Chicago
+    department: Population Health Nursing Science
     advisors: JoEllen Wilbur, Arlene Miller, MiJa Kim, Edward McAuley, Sally Freels # for type.educaton.   
     years: 1999 - 2005
     
