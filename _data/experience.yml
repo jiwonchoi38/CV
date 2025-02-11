@@ -1,9 +1,9 @@
 main:
 
   - type: education
-    degreepath: PhD # for type.education.
+    degreepath: PhD in Nursing # for type.education.
     institution: University of Illinois at Chicago
-    committee advisor: JoEllen Wilbur, Arlene Miller, MiJa Kim, Edward McAuley, Sally Freels   
+    advisors: JoEllen Wilbur, Arlene Miller, MiJa Kim, Edward McAuley, Sally Freels # for type.educaton.   
     years: 1999 - 2005
     
   - type: job
