@@ -1,6 +1,14 @@
 main: # You can enter in your items in a long list in this form. A few notes: they will not automatically be listed by time, so you will need to order it manually, with most recent at the top and least recent at the bottom.
 
   - type: essay # types include "essay" for peer-reviewed work, "conference" for presentations, "grant" for fellowships and other funding lines, "award" for awarded accomplishments, and "art" for artistic project, installation, or show.
+    title: "Cardiometabolic Risk of Visceral Fat Obesity and Factors Influencing Visceral Fat in Overweight or Obese Middle-Aged Korean Women: A Cross-Sectional Study"
+    authors: Kim S, Shin N-M, Choi J<b></b> # for multiple authors, you can use the <strong></strong> or <b></b> to emphasize your authorship.
+    pub_abbr: Pub 1 for type:essay
+    publication: Journal of Adult Nursing # for type:essay
+    date: 2024
+    doi: https://doi.org/10.7475/kjan.2024.36.4.320 # this will provide the link to the work. You can also host .pdfs of your work on this site in the assets folder. Link it there: "./assets/pdf/[filename].pdf"
+
+    - type: essay # types include "essay" for peer-reviewed work, "conference" for presentations, "grant" for fellowships and other funding lines, "award" for awarded accomplishments, and "art" for artistic project, installation, or show.
     title: "A Journal Publication"
     authors: John Doe # for multiple authors, you can use the <strong></strong> or <b></b> to emphasize your authorship.
     pub_abbr: Pub # for type:essay
